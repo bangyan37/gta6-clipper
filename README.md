@@ -6,6 +6,8 @@
 
 An 18-second vertical GTA 6 Short — Lucia standing up in a speeding convertible, cut from Rockstar's official Trailer 2 with the make.fun pitch burned in — entered in make.fun's "Clip GTA 6 for the most YouTube views" bounty. The program copies VIDEO.json, which names the published video, to the output directory for the gate. See CLIP.md for how the clip was found, chosen and rendered.
 
+**Watch it:** https://www.youtube.com/shorts/aQYYOgq9VWA — "She's STANDING in a Speeding Car?! 😱 GTA 6 Lucia Moment", published by the entrant on their own channel.
+
 ## Run it
 
 ```sh
